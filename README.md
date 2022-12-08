@@ -8,7 +8,7 @@
 
 <ul>
   <li> 💻 I'm currently working for <a href="https://www.redspark.io/">Redspark.io</a> </li>
-  <li> 🎓 Software Engineering Graduate/Graduating in <a href="https://www.unama.br">Unama</a>
+  <li> 🎓 Computer Science, Systems Analysis and Development Technologist in <a href="https://www.unama.br">Unama</a>
   <li> ✨  My favorite side project it is, and always will be (or not...), my first one <a href="https://github.com/ricksantos88/ibeer">Ibeer, this idea is before Zé Delivery hahahaha</a> </li>
   <li> 🔭 My newest side project is <a href="https://github.com/ricksantos88/kotlin-library-api">Library API in Kotlin</a> </li>
   <li> 📫 To find me, just send me a email: <a href="mailto: henrique.santos1988@gmail.com">henrique.santos1988@gmail.com</a> </li>
