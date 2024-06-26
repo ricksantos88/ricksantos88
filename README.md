@@ -4,8 +4,6 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58F71A&width=435&lines=Full+Stack+Developer...+no+no+no;Backend+Developer...+no+no+no;Mobile+Developer...+no+no+no;Just+Developer%2C+right%3F" alt="Typing SVG" /></a>
 
-![Profile views](https://gpvc.arturio.dev/ricksantos88)<p><a href="https://www.linkedin.com/in/wendel-santos%F0%9F%8C%88-254a6ab8/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/gabriel-silva-74811a136" alt="LinkedIn Badge"></a> </P>
-
 <ul>
   <li> 💻 I'm currently working for <a href="https://www.redspark.io/">Redspark.io</a> </li>
   <li> 🎓 Computer Science, Systems Analysis and Development Technologist in <a href="https://www.unama.br">Unama</a>
