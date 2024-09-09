@@ -38,7 +38,7 @@ I am from Belém - Brasil. I have +5 years of experience with web development. I
 ### Stacks that I work and still i in process of improvement 😅
 ![go](https://img.shields.io/badge/Go-00ADD8?logo=Go&logoColor=white&style=for-the-badge)
 ![redis](https://img.shields.io/badge/Redis-D9281A?logo=redis&logoColor=white&style=for-the-badge)
-AWS GCP Flutter Redis
+#### AWS GCP Flutter Redis
 
 
 ### Status
