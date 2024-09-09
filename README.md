@@ -4,6 +4,8 @@
 
 ### About me
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58F71A&width=435&lines=Full+Stack+Developer...+no+no+no;Backend+Developer...+no+no+no;Mobile+Developer...+no+no+no;Just+Developer%2C+right%3F" alt="Typing SVG" /></a>
+<br/>
+
 I am from Belém - Brasil. I have +5 years of experience with web development. I have a degree in systems analysis and development at [UNAMA - Universidade da Amazonia](https://www.unama.br/).
 
 ### Social Media
