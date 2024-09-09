@@ -6,7 +6,7 @@
 I am from Belém - Brasil. I have +5 years of experience with web development. I have a degree in systems analysis and development at [UNAMA - Universidade da Amazonia](https://www.unama.br/).
 
 ### Social Media
-[![Linkedin Badge](https://img.shields.io/badge/-Wendel%Santos-0a66c2?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wendel-santos-b006242a3/)](https://www.linkedin.com/in/wendel-santos-b006242a3/)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/wendel-santos-b006242a3/)
 
 ### Technologies
 ![Git](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)
