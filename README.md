@@ -3,11 +3,10 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 <br />
 ### About me
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58F71A&width=435&lines=Full+Stack+Developer...+no+no+no;Backend+Developer...+no+no+no;Mobile+Developer...+no+no+no;Just+Developer%2C+right%3F" alt="Typing SVG" /></a>
-<br/>
-
 I am from Belém - Brasil. I have +6 years of experience with web development. I have a degree in systems analysis and development at [UNAMA - Universidade da Amazonia](https://www.unama.br/).
 <br/>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58F71A&width=435&lines=Full+Stack+Developer...+no+no+no;Backend+Developer...+no+no+no;Mobile+Developer...+no+no+no;Just+Developer%2C+right%3F" alt="Typing SVG" /></a>
+<br />
 <!-- <br/> 💻 I'm currently working for <a href="https://invillia.ai/accelerate-digital-product/">Invillia.ai</a>
 <br/> ✨  My favorite side project it is, and always will be (or not...), my first one <a href="https://github.com/ricksantos88/ibeer">Ibeer</a>, this idea is before Zé Delivery hahahaha
 <br/> 📫 To find me, just send me a email: <a href="mailto: henrique.santos1988@gmail.com">henrique.santos1988@gmail.com</a> -->
