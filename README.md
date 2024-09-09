@@ -8,7 +8,7 @@ I am from Belém - Brasil. I have +5 years of experience with web development. I
 ### Social Media
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/wendel-santos-b006242a3/)
 
-### Technologies
+### Stacks that I work and surf 🤗
 ![Git](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=black)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white)
@@ -32,7 +32,13 @@ I am from Belém - Brasil. I have +5 years of experience with web development. I
 ![nginx](https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white&style=for-the-badge)
 ![kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
 ![rabbitmq](https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
+![jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white)
+![grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=Grafana&logoColor=white)
 
+### Stacks that I work and still i in process of improvement 😅
+![go](https://img.shields.io/badge/Go-00ADD8?logo=Go&logoColor=white&style=for-the-badge)
+![redis](https://img.shields.io/badge/Redis-D9281A?logo=redis&logoColor=white&style=for-the-badge)
 ![Jest](https://img.shields.io/badge/jest-AA3399?style=for-the-badge&logo=jest&logoColor=white)
 
 
