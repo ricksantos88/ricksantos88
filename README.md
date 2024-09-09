@@ -19,17 +19,19 @@ I am from Belém - Brasil. I have +5 years of experience with web development. I
 ![Oracle](https://img.shields.io/badge/-Oracle%20Database-F80000?logo=oracle&logoColor=white&style=for-the-badge)
 ![Postgresql](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white&style=for-the-badge)
 ![Mongodb](https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white&style=for-the-badge)
-
-
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1592C7?style=for-the-badge&logo=css3&logoColor=white)
-![Jest](https://img.shields.io/badge/jest-AA3399?style=for-the-badge&logo=jest&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white&style=for-the-badge)
 ![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Typescript](https://img.shields.io/badge/TypeScript-007cff?style=for-the-badge&logo=typescript&logoColor=white)
 ![Stlyed Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-3E3E0E?style=for-the-badge&logo=mysql&logoColor=white)
+
+![Jest](https://img.shields.io/badge/jest-AA3399?style=for-the-badge&logo=jest&logoColor=white)
+
+
 
 ![Node](https://img.shields.io/badge/Node.js-68a063?style=for-the-badge&logo=node.js&logoColor=white)
 
