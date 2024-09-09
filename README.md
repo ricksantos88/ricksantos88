@@ -27,13 +27,17 @@ I am from Belém - Brasil. I have +5 years of experience with web development. I
 ![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Typescript](https://img.shields.io/badge/TypeScript-007cff?style=for-the-badge&logo=typescript&logoColor=white)
-![Stlyed Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+![Node](https://img.shields.io/badge/Node.js-68a063?style=for-the-badge&logo=node.js&logoColor=white)
+![express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![nginx](https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white&style=for-the-badge)
+![kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
+![rabbitmq](https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 
 ![Jest](https://img.shields.io/badge/jest-AA3399?style=for-the-badge&logo=jest&logoColor=white)
 
 
 
-![Node](https://img.shields.io/badge/Node.js-68a063?style=for-the-badge&logo=node.js&logoColor=white)
+
 
 ### Status
 
