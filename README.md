@@ -8,9 +8,9 @@
 
 I am from Belém - Brasil. I have +6 years of experience with web development. I have a degree in systems analysis and development at [UNAMA - Universidade da Amazonia](https://www.unama.br/).
 <br/>
-<br/> 💻 I'm currently working for <a href="https://invillia.ai/accelerate-digital-product/">Invillia.ai</a>
+<!-- <br/> 💻 I'm currently working for <a href="https://invillia.ai/accelerate-digital-product/">Invillia.ai</a>
 <br/> ✨  My favorite side project it is, and always will be (or not...), my first one <a href="https://github.com/ricksantos88/ibeer">Ibeer</a>, this idea is before Zé Delivery hahahaha
-<br/> 📫 To find me, just send me a email: <a href="mailto: henrique.santos1988@gmail.com">henrique.santos1988@gmail.com</a>
+<br/> 📫 To find me, just send me a email: <a href="mailto: henrique.santos1988@gmail.com">henrique.santos1988@gmail.com</a> -->
 
 ### Social Media
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/wendel-santos-b006242a3/)
