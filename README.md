@@ -46,17 +46,17 @@ I am from Belém - Brasil. I have +5 years of experience with web development. I
 
 <img
   style="height:120px"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=fdbisdev&layout=compact&theme=dracula"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricksantos88&layout=compact&theme=dracula"
   alt="Github stats"
 />
 <img   
   style="height:120px"
-  src="https://github-readme-stats.vercel.app/api?username=fdbisdev&theme=dracula&hide_border=false&include_all_commits=true&count_private=true"
+  src="https://github-readme-stats.vercel.app/api?username=ricksantos88&theme=dracula&hide_border=false&include_all_commits=true&count_private=true"
   alt="Github stats"
 />
 <img
   style="height:120px"
-  src="https://github-readme-streak-stats.herokuapp.com/?user=fdbisdev&theme=dracula&hide_border=false"
+  src="https://github-readme-streak-stats.herokuapp.com/?user=ricksantos88&theme=dracula&hide_border=false"
   alt="Github stats"
 />
 
@@ -66,7 +66,7 @@ I am from Belém - Brasil. I have +5 years of experience with web development. I
 
 <p align="center">
   <img
-    src="https://profile-counter.glitch.me/fdbisdev/count.svg"
+    src="https://profile-counter.glitch.me/ricksantos88/count.svg"
     alt="Ilustração do número de visitantes no perfil"
   />
 </p>
